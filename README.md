@@ -60,9 +60,3 @@ To get started with the Streamy application, follow these steps:
     2. Install the dependencies: npm install
     3. Start the application: npm start
 
-
-
-
-=======
-# Streamy
->>>>>>> c2720cd5016a17a86855b60cab0381ad171b0e26
