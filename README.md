@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ![Logo](https://i.imgur.com/a1Ck04B.png)
 
@@ -62,3 +63,6 @@ To get started with the Streamy application, follow these steps:
 
 
 
+=======
+# Streamy
+>>>>>>> c2720cd5016a17a86855b60cab0381ad171b0e26
