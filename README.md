@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 ![Logo](https://i.imgur.com/a1Ck04B.png)
 
